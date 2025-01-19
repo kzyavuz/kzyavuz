@@ -18,6 +18,7 @@ and React I worked on the project.
 React and mongodb.
 
 INTERN
+
 🟡 Dnosoft Busness Solutons- Erzurum - 2022
 
 🔵 I took part n a team as an ASP.NET developer and contrbuted to
