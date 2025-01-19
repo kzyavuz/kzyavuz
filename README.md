@@ -1,5 +1,28 @@
-## Hi there 👋
+ABOUT ME
 
+Hello, I am Yavuz Koz. I am 22 years old and I graduated from
+Kırklarel Unversty Software Engneerng. I am currently developng
+projects wth ASP.NET Core. I research and learn new technologes
+when necessary. I use Asp .Net Core Mvc, Web Ap, css, html, js and
+React languages and technologes n my projects.
+
+WORK HİSTORY
+INTERN
+
+Hello, I am Yavuz Koz. I am 22 years old and I graduated from
+Kırklarel Unversty Software Engneerng. I am currently developng
+projects wth ASP.NET Core. I research and learn new technologes
+when necessary. I use Asp .Net Core Mvc, Web Ap, css, html, js and
+React languages and technologes n my projects.
+Dgturk Ben Meda Group - Beşktaş / İstanbul - 2024
+
+INTERN
+Dnosoft Busness Solutons- Erzurum - 2022
+"Dealer and staff job assgnment" usng ASP.NET Core 8 Web API
+and React I worked on the project.
+I took part n a team as an ASP.NET developer and contrbuted to
+the admn panel development work. Ths nternshp was mostly
+about theoretcal knowledge.
 <!--
 **kzyavuz/kzyavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
