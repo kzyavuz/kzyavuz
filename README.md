@@ -2,7 +2,6 @@ ABOUT ME
 
 Hello, I am Yavuz Koz. I am 22 years old and I graduated from Kırklarel Unversty Software Engneerng. I am currently developng projects wth ASP.NET Core. I use Asp .Net Core Mvc, Web Ap, css, html, js and React languages and technologes n my projects.
 
-WORK HİSTORY
 INTERN
 
 🟡 Dgturk Ben Meda Group - Beşktaş / İstanbul - 2024
