@@ -4,7 +4,7 @@ Hello, I am Yavuz Koz. I am 22 years old and I graduated from Kırklarel Unverst
 
 INTERN
 
-🟡 Dgturk Ben Meda Group - Beşktaş / İstanbul - 2024
+🟡 Digturk Bein Media Group - Beşiktaş / İstanbul - 2024
 
 🔵 "Dealer and staff job assgnment" usng ASP.NET Core 8 Web API
 and React I worked on the project.
@@ -14,7 +14,7 @@ React and mongodb.
 
 INTERN
 
-🟡 Dnosoft Busness Solutons- Erzurum - 2022
+🟡 Dinosoft Busness Solutons- Erzurum - 2022
 
 🔵 I took part n a team as an ASP.NET developer and contrbuted to
 the admn panel development work. Ths nternshp was mostly
